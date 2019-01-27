@@ -62,21 +62,21 @@ def logo():
                               ##   ####
                                     ###
                                  \033[33m    ##\033[31m
-          \033[33m-by \033[31mS\033[33mutariya \033[31mP\033[33marixit\033[31m        \033[33m#\033[31m
+          \033[33m-by \033[31mP\033[33rashant \033[31mP\033[33awar\033[31m        \033[33m#\033[31m
 \n\t     \033[31m\033[1m[_\033[33mIP Flooder\033[31m_]
  \n\033[0m\033[1m
 \t \033[33m\033[1m[-] \033[0m\033[1mPlatform : \033[33m\033[1mAndroid Termux
-\t \033[1m\033[33m\033[1m[-] \033[0m\033[1mName     : \033[33m\033[1mMr.Bat
-\t \033[1m\033[33m\033[1m[-] \033[0m\033[1mSite     : \033[33mwww.bhai4you.blogspot.com
-\t \033[1m\033[33m\033[1m[-] \033[0m\033[1mCoded by :\033[1m \033[33m[  \033[32m\033[1mParixit \033[33m ]
+\t \033[1m\033[33m\033[1m[-] \033[0m\033[1mName     : \033[33m\033[1mPriyant
+\t \033[1m\033[33m\033[1m[-] \033[0m\033[1mSite     : \033[33mhttps://github.com/hackpriyant
+\t \033[1m\033[33m\033[1m[-] \033[0m\033[1mCoded by :\033[1m \033[33m[  \033[32m\033[1mPrashant Pawar \033[33m ]
 \t \033[1m\033[33m\033[1m[-] \033[0m\033[1mSec.Code : \033[33m\033[1m8h4i\033[0m
-\t \033[1m\033[33m\033[1m[-] \033[0m\033[1mDate     : \033[33m\033[1m10-Dec-17\033[0m
+\t \033[1m\033[33m\033[1m[-] \033[0m\033[1mDate     : \033[33m\033[1m27-Jan-19\033[0m
   """)
 
 
 logo()
 
-print("\n\n\n\t\t\033[32m\033[1mMr.Bat")
+print("\n\n\n\t\t\033[32m\033[1mPriyant")
 print("\033[33m\033[1m       UDP Port Flooder By \033[31m8h4i\033[0m")
 
 attack = raw_input("\n\n\n\033[1mWebsite or IP ==> \033[33m")
@@ -118,5 +118,5 @@ while 1:
         start_new_thread(connect, (n,))
     except:
         print "\n\t\t\033[33mYour Target Is Down!!!"
-    print "\033[32m<+> mr.Bat!! mr.Bat!! mr.Bat!! mr.Bat!! mr.Bat!!"
+    print "\033[32m<+> Prashant!! Priyant!! Prashant!! Priyant!!Prashant!!"
     sleep(0.1)
